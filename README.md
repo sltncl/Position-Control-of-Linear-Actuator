@@ -6,7 +6,7 @@ This repository contains the project materials for the Linear Actuator Control S
 
 The system integrates an **HC-SR04 ultrasonic sensor**, an **ELEGOO UNO R3 microcontroller**, and a **motor control board** based on the Dual H-Bridge L298N driver. To enhance user interaction and control, an intuitive interface has been developed using **LabVIEW**. This software provides operators with an efficient tool to accurately adjust actuator positioning, ensuring smooth and reliable control.
 
-![work_table](https://github.com/user-attachments/assets/56247e93-e493-4b58-bd73-eb22a3a6f1e0)
+![work_table](https://github.com/user-attachments/assets/b4bf2eb5-2085-4d6f-8df6-58b16c548128)
 
 ## Repository Structure
 
