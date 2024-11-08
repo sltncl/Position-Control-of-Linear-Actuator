@@ -59,7 +59,7 @@ function interface_value = import_interface(filename, dataLines)
 %  dis-contiguous row intervals.
 %
 %  Example:
-%  interface_value = import_interface("/Users/nicolasaltarelli/Desktop/distance.csv", [2, Inf]);
+%  interface_value = import_interface("./distance.csv", [2, Inf]);
 %
 %  See also READTABLE.
 %
