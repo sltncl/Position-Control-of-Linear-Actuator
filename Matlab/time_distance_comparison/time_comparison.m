@@ -63,7 +63,7 @@ function microcontroller_times = import_mcu(filename, dataLines)
 %  dis-contiguous row intervals.
 %
 %  Example:
-%  microcontroller_times = import_mcu("/Users/nicolasaltarelli/Desktop/times.csv", [2, Inf]);
+%  microcontroller_times = import_mcu("./times.csv", [2, Inf]);
 %
 %  See also READTABLE.
 %
@@ -107,7 +107,7 @@ function interface_value = import_interface(filename, dataLines)
 %  for dis-contiguous row intervals.
 %
 %  Example:
-%  interface_value = import_interface("/Users/nicolasaltarelli/Desktop/distance.csv", [2, Inf]);
+%  interface_value = import_interface("./distance.csv", [2, Inf]);
 %
 %  See also READTABLE.
 %
